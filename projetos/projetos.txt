@@ -1,0 +1,5 @@
+Projetos que pretendo realizar com programação em JavaScript:
+- Jogo do Galo
+- Calculadora
+- Jogo da Forca
+- Jogo do Milionário
